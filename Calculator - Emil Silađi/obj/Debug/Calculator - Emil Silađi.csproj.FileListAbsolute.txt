@@ -1,0 +1,9 @@
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Debug\Calculator - Emil Silađi.exe.config
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Debug\Calculator - Emil Silađi.exe
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Debug\Calculator - Emil Silađi.pdb
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Debug\Calculator___Emil_Silađi.Calculator.resources
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Debug\Calculator___Emil_Silađi.Properties.Resources.resources
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Debug\Calculator - Emil Silađi.csproj.GenerateResource.Cache
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Debug\Calculator - Emil Silađi.exe
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Debug\Calculator - Emil Silađi.pdb
+c:\users\emil\documents\visual studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Debug\Calculator - Emil Silađi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Release\Calculator - Emil Silađi.exe.config
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Release\Calculator - Emil Silađi.exe
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Release\Calculator - Emil Silađi.pdb
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator___Emil_Silađi.Calculator.resources
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator___Emil_Silađi.Properties.Resources.resources
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator - Emil Silađi.exe
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator - Emil Silađi.pdb

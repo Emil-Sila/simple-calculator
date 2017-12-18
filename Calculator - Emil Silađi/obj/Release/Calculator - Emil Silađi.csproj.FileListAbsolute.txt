@@ -1,0 +1,11 @@
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Release\Calculator - Emil Silađi.exe.config
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Release\Calculator - Emil Silađi.exe
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Release\Calculator - Emil Silađi.pdb
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator___Emil_Silađi.Calculator.resources
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator___Emil_Silađi.Properties.Resources.resources
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator - Emil Silađi.csproj.GenerateResource.Cache
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator - Emil Silađi.exe
+C:\Users\Emil\Documents\Visual Studio 2015\Projects\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator - Emil Silađi.pdb
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\bin\Release\Calculator - Emil Silađi.exe.config
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator - Emil Silađi.exe
+D:\Programiranje\Danieli Systek\Zadaci - Emil Silađi\Zadatak 1\Calculator - Emil Silađi\Calculator - Emil Silađi\obj\Release\Calculator - Emil Silađi.pdb
